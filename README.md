@@ -29,7 +29,7 @@
 
 I'm a **Software Engineering student** interested in turning ideas into practical software and continuously improving my development skills.
 
-I'm currently exploring different areas of software development through projects, coursework and experimentation — from programming fundamentals and object-oriented design to web development, databases and mathematical/computational work.
+I'm currently exploring different areas of software development through projects, coursework and experimentation from programming fundamentals and object-oriented design to web development, databases and mathematical/computational work.
 
 > 💡 **Build → Break → Learn → Improve → Repeat**
 
@@ -77,24 +77,6 @@ I'm currently exploring different areas of software development through projects
 <img src="https://streak-stats.demolab.com?user=mawich16&hide_border=true&background=00000000&theme=transparent" alt="GitHub Streak" />
 
 </div>
----
-
-## 🧠 Currently Learning
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  ☕  Object-Oriented Design                           │
-│  🐍  Programming & Problem Solving                   │
-│  🌐  Web Development                                  │
-│  🗄️  Databases & Data                                │
-│  🔧  Software Engineering Practices                  │
-│  🚀  Building better projects                        │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
-I'm particularly interested in understanding **why** things work, not just getting them to work.
 
 ---
 
@@ -134,7 +116,7 @@ I'm particularly interested in understanding **why** things work, not just getti
 
 I believe the best way to learn software engineering is to combine **theory with projects**.
 
-Every repository is an opportunity to learn something new — whether that's a programming concept, a development workflow, a better architecture, or simply how to debug something that absolutely should have worked.
+Every repository is an opportunity to learn something new whether that's a programming concept, a development workflow, a better architecture, or simply how to debug something that absolutely should have worked.
 
 ---
 
