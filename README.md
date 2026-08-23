@@ -35,28 +35,7 @@ I'm currently exploring different areas of software development through projects
 
 ---
 
-## 🚀 What I'm Working With
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,git,github,linux,vscode&perline=10" />
-
-</div>
-
-<br>
-
-| Area                 | Focus                                 |
-| :------------------- | :------------------------------------ |
-| ☕ **Programming**    | Java · Object-Oriented Programming    |
-| 🐍 **Development**   | Python · Programming Fundamentals     |
-| 🌐 **Web**           | HTML · CSS · JavaScript               |
-| 🗄️ **Data**         | Databases · SQL                       |
-| 🔧 **Tools**         | Git · GitHub · VS Code · Linux        |
-| 📐 **Computational** | Mathematical & computational projects |
-
----
-
-## 📊 GitHub Dashboard
+## GitHub Dashboard
 
 <div align="center">
 
@@ -80,7 +59,7 @@ I'm currently exploring different areas of software development through projects
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -94,7 +73,7 @@ I'm currently exploring different areas of software development through projects
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -104,7 +83,7 @@ I'm currently exploring different areas of software development through projects
 
 ---
 
-## 🎯 My Approach
+## My Approach
 
 <div align="center">
 
@@ -122,7 +101,7 @@ Every repository is an opportunity to learn something new whether that's a progr
 
 <div align="center">
 
-### 💬 Thanks for stopping by!
+### Thanks for stopping by!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=100&section=footer" width="100%"/>
 
